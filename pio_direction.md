@@ -16,4 +16,6 @@ pio home
 
 설치하면 라이브러리는 `project`/.pio/libdeps/`boardmanager`/ 경로로 저장하고 `project`/에 예제도 저장(예제는 삭제해도 될 듯?)
 
+설치한 후 platformio.ini 안에 저장해줘야 함!!(*매우 중요* 의존성 관리)
+
 근데 라이브러리는 ./pio 안에 있는데 보드매니저는 안보임 어디에 추가되는 건지 잘 모르겠음
